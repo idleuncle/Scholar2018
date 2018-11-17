@@ -1,2 +1,1 @@
-# Scholar2018
-2018开放学术数据挖掘大赛
+README.Scholar2018.md
